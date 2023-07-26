@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "351988701583",
+    "project_id": "todo-7ef01",
+    "storage_bucket": "todo-7ef01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351988701583:android:a04936247d203507d013fa",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351988701583-4usql5huj2ogdhn95au70h4li44fqfr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAF-4WV1VyKL9En_u6-AZhtUNbUc919nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351988701583-4usql5huj2ogdhn95au70h4li44fqfr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "351988701583-9al1f8b81hk1nshkqkms367tgnq9g5uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351988701583:android:d1c67acf43e758e2d013fa",
+        "android_client_info": {
+          "package_name": "com.example.todo_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351988701583-4usql5huj2ogdhn95au70h4li44fqfr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAF-4WV1VyKL9En_u6-AZhtUNbUc919nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351988701583-4usql5huj2ogdhn95au70h4li44fqfr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "351988701583-9al1f8b81hk1nshkqkms367tgnq9g5uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
